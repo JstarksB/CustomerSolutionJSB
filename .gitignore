@@ -6,3 +6,6 @@
 /CustomerSolutionAPI/obj/
 /CustomerSolutionTests/bin/
 /CustomerSolutionTests/obj/
+/.vs
+/CustomerSolution/bin/Debug/net8.0
+*.user
