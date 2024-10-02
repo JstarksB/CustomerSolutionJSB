@@ -1,6 +1,6 @@
-Hello! This is my submission for the Pinewood Technologies technical task.
+Hello!
 
-To run, please clone the repo and run the following two projects simultaneously, both in http or https:
+To run this project, please clone the repo and run the following two projects simultaneously, both in http or https:
 CustomerSolution
 CustomerSolutionAPI
 
