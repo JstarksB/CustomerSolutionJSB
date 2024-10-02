@@ -1,0 +1,30 @@
+@model CustomerViewModel
+
+@{
+    ViewData["Title"] = "Customer Details";
+}
+
+<div class="text-center">
+    <h1>Customer Details</h1>
+</div>
+
+<div>
+    <h6>First Name</h6>
+    <p>@Model.FirstName</p>
+    <br>
+    <h6>Last Name</h6>
+    <p>@Model.LastName</p>
+    <br>
+    <h6>Email Address</h6>
+    <p>@Model.EmailAddress</p>
+    <br>
+    <h6>Customer Id</h6>
+    <p>@Model.Id</p>
+    <br>
+</div>
+
+<div>
+    @Html.ActionLink("Edit", "Edit", "Customer", routeValues: new {id = Model.Id}, htmlAttributes: new {@class = "btn btn-secondary"})
+    @Html.ActionLink("Delete", "Delete", "Customer", routeValues: new {id = Model.Id}, htmlAttributes: new {@class = "btn btn-secondary"})
+</div>
+

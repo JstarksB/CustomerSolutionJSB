@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JrNXaY9XkiBiy5h98H5u0Psf5TLRqFiaut1cC6LPaYyAktbWrtNDwfswdRWRnXTPx6LRgXX1SsIJN2bUfR+M+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JordanStarks-Brownin\\Documents\\Dev\\CustomerSolutionJSB\\CustomerSolution\\CustomerSolution.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JordanStarks-Brownin\\.nuget\\packages\\sqlite\\3.13.0\\sqlite.3.13.0.nupkg.sha512"
+  ],
+  "logs": []
+}
